@@ -15,4 +15,4 @@ script:
 after_success:
   - echo "Test success"
 
-#CI 테스트2
+#CI 테스트3
